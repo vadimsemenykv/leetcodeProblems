@@ -12,7 +12,7 @@ public class RemoveOneElementToMakeTheArrayStrictlyIncreasing1909 {
         int count = 0;
 
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] < nums[i - 1]) {
+            if (nums[i] <= nums[i - 1]) {
                 count++;
                 //Optimization section:
                 //Check if delete i - 1 element will solve the problem
@@ -27,5 +27,10 @@ public class RemoveOneElementToMakeTheArrayStrictlyIncreasing1909 {
         }
 
         return true;
+    }
+
+    public static void main(String[] args) {
+        var sol = new RemoveOneElementToMakeTheArrayStrictlyIncreasing1909();
+        var res = sol.canBeIncreasing(new int[]{1,1,1});
     }
 }
