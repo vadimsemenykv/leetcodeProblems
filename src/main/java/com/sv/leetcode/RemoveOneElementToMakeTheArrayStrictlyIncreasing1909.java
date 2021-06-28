@@ -28,9 +28,4 @@ public class RemoveOneElementToMakeTheArrayStrictlyIncreasing1909 {
 
         return true;
     }
-
-    public static void main(String[] args) {
-        var sol = new RemoveOneElementToMakeTheArrayStrictlyIncreasing1909();
-        var res = sol.canBeIncreasing(new int[]{1,1,1});
-    }
 }
