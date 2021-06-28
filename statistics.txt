@@ -1,6 +1,9 @@
 Solved:
+Easy:
+1. https://leetcode.com/problems/maximum-product-difference-between-two-pairs/ - MaximumProductDifferenceBetweenTwoPairs1913
 
 With help:
+Easy:
 1. https://leetcode.com/problems/roman-to-integer/ - com.sv.leetcode.RomanToInteger13
 
 Need to do:
