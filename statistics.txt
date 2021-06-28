@@ -4,7 +4,8 @@ Easy:
 
 With help:
 Easy:
-1. https://leetcode.com/problems/roman-to-integer/ - com.sv.leetcode.RomanToInteger13
+1. https://leetcode.com/problems/roman-to-integer/ - RomanToInteger13
+2. https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/ - RemoveOneElementToMakeTheArrayStrictlyIncreasing1909
 
 Need to do:
 
